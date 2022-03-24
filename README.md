@@ -36,4 +36,4 @@ MLIR是多级IR表示，目的是通过多级IR表示提高编译框架的可扩
 ```
 
 ## 致谢
-感谢@[darionyaphet](https://github.com/darionyaphet)对项目的贡献。。
+感谢@[darionyaphet](https://github.com/darionyaphet)对项目的贡献。
